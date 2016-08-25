@@ -885,3 +885,4 @@ www.contra.gr###top_story_wrap > .grid_12 > div:nth-of-type(8) > a[href^="https:
 ~agelioforos.gr##.side-ad
 ~athensmagazine.gr##.ad_wrapper
 ~aggeliestanea.gr##.adResult
+psdadrtmp.fms.c.footprint.net
